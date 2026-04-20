@@ -1,0 +1,107 @@
+Build a modern dashboard landing section with a clean UI.
+
+Layout:
+
+Use a grid-based layout with 2 columns on desktop and stacked on mobile.
+
+Background should be light with soft pastel cards.
+
+Sections:
+
+Top Left Section:
+Heading: "We automatically generate reports for each of your customers"
+
+Clean typography, bold heading, minimal description
+
+Top Right Card:
+Card showing company info (e.g., Intercom)
+
+Include:
+
+Logo
+
+Joined date
+
+Metrics:
+
+Total seats
+
+Active seats
+
+Active last 7 days
+
+Another card beside it:
+
+"Company activation 40%"
+
+Progress bars for:
+
+Signed up
+
+Setup
+
+Aha moment
+
+Activated
+
+Active
+
+Bottom Left Section :
+Title: "Celebrate milestones"
+
+Description: alerts + weekly digests
+
+Include a notification-style card:
+
+User signup info
+
+Company details (location, role, funding, etc.)
+
+Bottom Right Top (Yellow Card):
+Title: "Automatic enrichment"
+
+Card showing enriched company data:
+
+Website
+
+Employees
+
+Funding
+
+Location
+
+Social links
+
+Bottom Right Bottom (Green Card):
+Title: "Integrated with your CRM"
+
+Description: sync data with CRM
+
+Small CRM table:
+
+Company name
+
+Active seats change (+/-)
+
+Design:
+
+Use rounded corners (xl)
+
+Soft shadows
+
+Pastel colors (purple, yellow, green)
+
+Minimal icons
+
+Responsive design
+
+Tech:
+
+React + modern CSS
+
+Component-based structure
+
+
+
+
+https://lovable.dev/projects/ed65633d-dfa9-4e21-aaed-5b28b65e33ad?messageId=aimsg_01kpnjh6wdfet84ajakxqgn95s
